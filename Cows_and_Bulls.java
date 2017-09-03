@@ -25,7 +25,7 @@ public class Cows_and_Bulls {
 		Numbers numbers = new Numbers();
 		numbers.randomNumbers();
 		
-		Test.test(numbers);
+		//Test.test(numbers);
 
 		while(true) {
 			int[] curr_try = new int[4];

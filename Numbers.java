@@ -1,4 +1,4 @@
-//TO DO: invalid index, value
+//TODO: invalid index, value
 
 public class Numbers {
 	public static final int MAX_NUMBERS = 4;

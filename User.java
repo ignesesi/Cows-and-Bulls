@@ -1,3 +1,4 @@
+//TODO: valid input
 import java.util.Scanner;
 
 public class User {
@@ -11,7 +12,6 @@ public class User {
 		for(int i = 0; i < Numbers.MAX_NUMBERS; i++) {
 			curr_try[i] = Integer.parseInt(s[i]);
 		}
-		//TO DO: valid input
 	}
 }
 

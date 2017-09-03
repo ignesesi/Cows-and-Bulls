@@ -1,4 +1,4 @@
-//TO DO: invalid cows/bulls
+//TODO: invalid cows/bulls
 
 public class Result {
 	private int cows;
