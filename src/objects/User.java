@@ -1,5 +1,8 @@
 //TODO: valid input
+package objects;
+
 import java.util.Scanner;
+import input_output.Output;
 
 public class User {
 	public static void guess(int[] curr_try) {

@@ -1,10 +1,13 @@
 //TODO: invalid index, value
+package objects;
+
+import input_output.Test;
 
 public class Numbers {
 	public static final int MAX_NUMBERS = 4;
 	private int[] elements;
 
-	Numbers() {
+	public Numbers() {
 		this.elements = new int[MAX_NUMBERS];
 	}
 	

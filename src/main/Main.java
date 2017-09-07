@@ -1,5 +1,9 @@
+package main;
 
-public class Cows_and_Bulls {
+import objects.*;
+import input_output.*;
+
+public class Main {
 	public static Result check_try(int[] curr_try, Numbers numbers) {
 		Result res = new Result();
 		for(int i = 0; i < Numbers.MAX_NUMBERS; i++) {

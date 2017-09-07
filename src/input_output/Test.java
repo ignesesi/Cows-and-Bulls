@@ -1,4 +1,7 @@
 //TEST
+package input_output;
+
+import objects.Numbers;
 
 public class Test {
 	public static void test(Numbers a){

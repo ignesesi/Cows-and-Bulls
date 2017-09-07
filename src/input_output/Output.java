@@ -1,3 +1,7 @@
+package input_output;
+
+import objects.Result;
+import objects.Numbers;
 
 public class Output {
 	public static void win() {

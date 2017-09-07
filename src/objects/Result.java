@@ -1,4 +1,5 @@
 //TODO: invalid cows/bulls
+package objects;
 
 public class Result {
 	private int cows;
