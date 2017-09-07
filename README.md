@@ -1,11 +1,11 @@
-Cows and Bulls
+Cows and Bulls  
 
-How to compile and run:
-javac ./src/*/*.java -d ./bin
-java -cp ./bin main.Main
+How to compile and run:  
+javac ./src/*/*.java -d ./bin  
+java -cp ./bin main.Main  
 
-or 
-./compile.sh
+or  
+./compile.sh  
 
 TODO:
 * Not only integers, but also characters
